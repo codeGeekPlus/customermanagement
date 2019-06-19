@@ -1,0 +1,1 @@
+Main-Class: uk.com.atos.ho.customer.MainClass
